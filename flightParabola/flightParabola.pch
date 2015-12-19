@@ -1,0 +1,22 @@
+//
+//  flightParabola.pch
+//  Flight
+//
+//  Created by dengjiang on 15/11/18.
+//  Copyright © 2015年 ShiCaiDai. All rights reserved.
+//
+
+#ifndef flight_h
+#define flight_h
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "CommonMacros.h"
+#import "CommonCategories.h"
+
+#endif
+
+#endif /* flight_h */
